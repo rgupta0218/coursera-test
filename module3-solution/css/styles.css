@@ -1,7 +1,6 @@
 body {
     font-size: 16px;
     color: black;
-    background-color: lightblue;
     font-family: 'Oxygen', sans-serif;
 }
 
@@ -26,45 +25,6 @@ body {
     font-size: 24px;
 }
 
-#chicken-div {
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
-
-#beef-div {
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
-
-#sushi-div {
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
-
-#header-nav {
-    border: 0;
-    background-color: #FC5F06;
-    color: black;
-}
-
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #61122f;
-}
-
-.navbar-header button.navbar-toggle {
-    clear: both;
-    margin-top: -30px;
-}
-
-.nav-header {
-    background-color: #FFFFFF;
-}
-
-.nav-brand {
-    color: #FFFFFF;
-    font-size: 1.5em;
-}
-
-#nav-list {
-    color: white;
+.navbar-toggle {
+    border: 1px red solid;
 }
