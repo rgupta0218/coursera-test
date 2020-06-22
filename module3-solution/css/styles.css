@@ -1,6 +1,7 @@
 body {
     font-size: 16px;
     color: black;
+    background-color: lightblue;
     font-family: 'Oxygen', sans-serif;
 }
 
@@ -26,5 +27,5 @@ body {
 }
 
 .navbar-toggle {
-    border: 1px red solid;
+    border: 1px black solid;
 }
